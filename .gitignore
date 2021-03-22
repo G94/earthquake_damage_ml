@@ -1,0 +1,7 @@
+models/
+result/
+datasets/
+.ipynb_checkpoints/
+data/
+*.csv
+*.xlsx
